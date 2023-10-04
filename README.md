@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello there 👋🏼
 My name is Eirik 🤟🏼 I’m living in Trondheim (Norway). Currently studying frontend development at Noroff 🤩
 
 
