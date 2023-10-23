@@ -1,5 +1,5 @@
 ### Hello there 👋🏼
-My name is Eirik 🤟🏼 I’m living in Trondheim (Norway). Currently studying frontend development at Noroff 🤩
+My name is Eirik 🤟🏼 I’m living in Trondheim, Norway. Currently studying front-end development at Noroff 🤩
 
 
 
